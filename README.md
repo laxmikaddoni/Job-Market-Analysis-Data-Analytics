@@ -26,7 +26,7 @@ Python, SQL, and Cloud skills are highly demanded.
 Data Scientist and ML Engineer roles have maximum openings.
 Multi-skilled candidates get better career opportunities.
 
-## Note: Github does not support previewing 'pbix' and 'pptx' files.please use 'view raw' to download and open them locally.
+## Note: GitHub does not support previewing Power BI (.pbix) and PowerPoint (.pptx) files.please use **view raw** to download and open them locally.
 
 ## Author
 Laxmi Kaddoni
