@@ -13,6 +13,7 @@ Python (JUpyter Notebook)
 
 ## Files in this Repository
 Jon market analysis (PRDA-04).pptx-project presentation
+job_market_analysis.ipynb - python analysis using Jupyter notebook
 Job_Market_Analysis_dashboard.pbix – Power BI dashboard
 job_market_data_cleaning.sql - sql data cleaning queries
 job_market_data1.csv – Dataset 1
